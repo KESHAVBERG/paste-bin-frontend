@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import CreatePaste from './Pages/createPaste'
-import ViewPaste from './Pages/viewPaste'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import './App.css'
